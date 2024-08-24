@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Book Recommender System
+Home-page: https://github.com/Mihir/Books-Recommender-System-Using-Machine-Learning
+Author: Mihir
+Author-email: mihirsarvan193@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
